@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head> <title>OJR6 MIX</title>  </head>
+<body background="http://www.00-jungri.com/wp-content/uploads/2020/09/ojr6mix2.jpg" leftmargin=0 topmargin=0 marginwidth=0 marginheight=0>
+
+   <!-- SCM Music Player https://www.scmplayer.net -->
+<script type="text/javascript" src="https://www.scmplayer.net/script.js" 
+data-config="{'skin':'https://static.tumblr.com/s0xgxh2/Ox9mi6olt/s2.css','volume':50,'autostart':false,'loop':false,'placement':'bottom','showplaylist':false,'playlist':[{'title':'OJR6 MIX','url':'http://www.00-jungri.com/wp-content/uploads/2020/09/OJR6-MIX.mp3'}]}" ></script>
+<!-- SCM Music Player script end -->
+   </body>
+</html>
